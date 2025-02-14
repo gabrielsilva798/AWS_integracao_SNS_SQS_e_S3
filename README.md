@@ -49,10 +49,10 @@ Antes de iniciar, garanta que você tem:
 7. **Limpeza de recursos**
    - Excluir o bucket S3, fila SQS, tópico SNS e assinaturas para evitar custos desnecessários.
 
+![NOTIFICAÇAO DE EVENTO: obejto removido do Bucket S3](Captura%20de%20Tela%20(406).png)
+
 ## Conclusão
 Este laboratório ensina como integrar serviços da AWS para monitorar eventos do S3, enviando notificações por e-mail e registrando os eventos em uma fila para processamento futuro. Essa solução é útil para auditoria, monitoramento de arquivos e integração com outros sistemas.
-
----
 
 _Autor: Josely Castro  
 Data de Criação: 15/01/2025  
