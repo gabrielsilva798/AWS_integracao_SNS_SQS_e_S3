@@ -49,6 +49,7 @@ Antes de iniciar, garanta que você tem:
 7. **Limpeza de recursos**
    - Excluir o bucket S3, fila SQS, tópico SNS e assinaturas para evitar custos desnecessários.
 
+8. **Prints de cada etapa do Projeto**
 ![NOTIFICAÇÃO DE EVENTO: objeto removido do Bucket S3 - 1](imagens/Captura%20de%20Tela%20(397).png)
 ![NOTIFICAÇÃO DE EVENTO: objeto removido do Bucket S3 - 2](imagens/Captura%20de%20Tela%20(400).png)
 ![NOTIFICAÇÃO DE EVENTO: objeto removido do Bucket S3 - 3](imagens/Captura%20de%20Tela%20(401).png)
